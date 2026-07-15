@@ -2,662 +2,484 @@
 
 ## Proposito
 
-Esta guia documenta el laboratorio completo paso a paso en formato reproducible.
+Esta guia documenta el Research Intelligence Workflow como metodologia reproducible de investigacion cientifica apoyada por inteligencia artificial especializada.
 
 ## Pregunta de investigacion
 
-**Como esta impactando la inteligencia artificial la productividad y el crecimiento economico en economias emergentes?**
+**How is Generative Artificial Intelligence impacting productivity and economic growth?**
 
-## Objetivo del laboratorio
+Esta pregunta no cambia durante todo el laboratorio.
 
-Construir un flujo completo de investigacion asistida por IA que permita:
+## Tesis metodologica
 
-- Entender el panorama conceptual
-- Reunir literatura cientifica relevante
-- Priorizar evidencia de mayor valor
-- Comparar autores, escuelas y controversias
-- Construir memoria de investigacion
-- Transformar evidencia validada en comunicacion cientifica
+Research AI Lab no es una coleccion de herramientas.
 
-## Alcance
+Es una metodologia para orquestar inteligencias especializadas a lo largo del ciclo completo de investigacion cientifica.
 
-- Tema: inteligencia artificial, productividad y crecimiento
-- Unidad de interes: economias emergentes
-- Tipos de fuentes: articulos, working papers, reportes institucionales, revisiones
-- Nivel de salida: estado del arte reproducible y mapa de gap de investigacion
+## Principio central
 
-## Paso 0: Planeacion de investigacion
+Nunca presente software como destino.
 
-### Proposito
+Presente transformaciones cognitivas.
 
-Definir con precision que sabemos, que no sabemos y que necesitamos observar antes de abrir herramientas.
+## Workflow completo
 
-### Por que ahora
+```text
+Scientific Question
+  -> Scientific Language
+  -> Scientific Corpus
+  -> Seed Paper
+  -> Knowledge Map
+  -> Scientific Evidence
+  -> Literature Synthesis
+  -> Scientific Memory
+  -> Scientific Communication
+```
 
-Porque un mal inicio produce busquedas ruidosas, corpus inflados y sintesis superficiales.
+## Etapa 1: Scientific Question
 
-### URL oficial
+### Pregunta cientifica
 
-No aplica. Este paso se realiza en una libreta, documento o canvas de investigacion.
+What do I want to investigate?
 
-### Preguntas base
+### Responsable
 
-- Que sabemos ya sobre IA y productividad
-- Que no sabemos todavia en economias emergentes
-- Que evidencia necesitamos para responder la pregunta
-- Que salida final esperamos producir
-
-### Entregables del paso
-
-- Objetivo de investigacion
-- Alcance y limites
-- Lista inicial de keywords
-- Hipotesis de trabajo
-- Lista de subpreguntas
-
-### Plantilla sugerida
-
-- Pregunta central
-- Objetivo
-- Alcance geografico
-- Alcance temporal
-- Conceptos obligatorios
-- Conceptos relacionados
-- Hipotesis iniciales
-- Riesgos metodologicos
-
-### Buenas practicas
-
-- Escribir la pregunta en una sola frase
-- Separar hechos, intuiciones e hipotesis
-- Definir que significara una buena respuesta
-
-### Errores comunes
-
-- Empezar a buscar sin definir alcance
-- Mezclar crecimiento macro con productividad micro sin distinguir niveles
-- Tratar "economias emergentes" como categoria homogenea
-
-### Tiempo requerido
-
-20 a 30 minutos
-
-### Transicion
-
-Con la pregunta y el alcance claros, el siguiente paso es entender el paisaje general.
-
-## Paso 1: Perplexity
-
-### Proposito
-
-Entender el panorama.
-
-### Por que ahora
-
-Porque primero necesitamos lenguaje, instituciones, reportes y conceptos antes de abrir literatura masiva.
-
-### URL oficial
-
-[Perplexity](https://www.perplexity.ai)
-
-### Consulta exacta en ingles
-
-`How is Artificial Intelligence impacting productivity and economic growth in emerging economies?`
-
-### Consulta exacta en espanol
-
-`Como esta impactando la inteligencia artificial la productividad y el crecimiento economico en economias emergentes?`
-
-### Que observar
-
-- Conceptos recurrentes
-- Instituciones que publican sobre el tema
-- Reportes marco
-- Vocabulario alternativo
-- Posibles subtemas
-
-### Que extraer
-
-- Keywords
-- Instituciones
-- Reportes
-- Conceptos
-
-### Que ignorar
-
-- Respuestas demasiado generales sin fuentes claras
-- Rankings, blogs o contenido promocional
-- Frases elegantes que no puedan traducirse a evidencia
+The Researcher
 
 ### Salida esperada
 
-- Mapa inicial de terminos
-- Lista de instituciones y reportes de referencia
-- Primeras pistas para busqueda academica
+Research Question
 
-### Errores comunes
+### Mensaje
 
-- Tomar la respuesta como verdad final
-- No abrir las fuentes citadas
-- Confundir resumen rapido con evidencia cientifica
+La investigacion siempre comienza con una pregunta.
+
+No con IA.
 
 ### Buenas practicas
 
-- Copiar keywords literales
-- Guardar instituciones, autores y conceptos en una libreta
-- Marcar aquello que parece recurrente pero todavia no comprobado
+- Formular la pregunta en una sola frase
+- Delimitar alcance conceptual desde el inicio
+- Distinguir curiosidad, hipotesis y objetivo
 
-### Tip de investigacion
+### Errores comunes
 
-Use Perplexity para orientacion conceptual, no para cerrar conclusiones.
+- Empezar buscando antes de definir que se quiere investigar
+- Mezclar demasiadas dimensiones en una misma pregunta
+- Delegar la formulacion al modelo
 
-### Tiempo requerido
+### Tiempo sugerido
 
 15 a 20 minutos
 
 ### Transicion
 
-Con keywords y lenguaje de campo, podemos pasar a literatura cientifica estructurada.
+Una vez existe una pregunta clara, el siguiente problema no es buscar papers: es aprender el lenguaje cientifico del dominio.
 
-## Paso 2: OpenAlex
+## Etapa 2: Scientific Language
 
-### Proposito
+### Pregunta cientifica
 
-Reunir literatura cientifica.
+How does the scientific community talk about this problem?
 
-### Por que ahora
+### Herramienta actual
 
-Porque necesitamos construir un corpus inicial amplio y trazable.
-
-### URL oficial
-
-[OpenAlex](https://openalex.org)
+Perplexity
 
 ### Consulta exacta
 
-`"artificial intelligence" productivity "emerging economies"`
+`How is Generative Artificial Intelligence impacting productivity and economic growth?`
+
+### Salida esperada
+
+- Concepts
+- Keywords
+- Synonyms
+- Variables
+- Research dimensions
+- Possible hypotheses
+- Related terminology
+
+### Mensaje
+
+Todavia no estamos buscando papers.
+
+Estamos aprendiendo el lenguaje cientifico del problema.
+
+### Que observar
+
+- Como se nombra la IA generativa en distintos contextos
+- Que variables economicas aparecen
+- Que dimensiones de productividad se repiten
+- Que instituciones y reportes marco sirven de orientacion
+
+### Buenas practicas
+
+- Guardar conceptos y sinonimos literales
+- Separar terminos utiles de frases demasiado generales
+- Construir un mini glosario antes de ir a literatura
+
+### Errores comunes
+
+- Confundir respuesta rapida con evidencia
+- Empezar a concluir demasiado pronto
+- No registrar vocabulario alternativo
+
+### Tiempo sugerido
+
+15 a 20 minutos
+
+### Transicion
+
+Con el lenguaje del dominio ya construido, podemos descubrir que literatura cientifica existe.
+
+## Etapa 3: Scientific Corpus
+
+### Pregunta cientifica
+
+What scientific literature already exists?
+
+### Herramienta actual
+
+OpenAlex
+
+### Consultas exactas
+
+- `Artificial Intelligence productivity`
+- `Artificial Intelligence economic growth`
+- `Artificial Intelligence productivity emerging economies`
+
+### Salida esperada
+
+- Authors
+- Journals
+- DOI
+- Institutions
+- Scientific Corpus
+
+### Mensaje
+
+Todavia no estamos leyendo.
+
+Estamos descubriendo el paisaje cientifico.
+
+### Que observar
+
+- Autores recurrentes
+- Journals y series de working papers
+- DOI y trazabilidad
+- Instituciones con produccion estable
+
+### Buenas practicas
+
+- Registrar consultas y filtros
+- Separar corpus amplio de corpus prioritario
+- Guardar papers prometedores pero no leer todos todavia
+
+### Errores comunes
+
+- Tratar el corpus como lectura final
+- Quedarse con la primera pagina de resultados
+- No distinguir pertinencia de volumen
+
+### Tiempo sugerido
+
+25 a 35 minutos
+
+### Transicion
+
+Con el corpus construido, la siguiente pregunta es donde conviene empezar a leer.
+
+## Etapa 4: Seed Paper
+
+### Pregunta cientifica
+
+Where should I begin?
+
+### Herramienta actual
+
+Semantic Scholar
+
+### Consulta exacta
+
+`Artificial Intelligence productivity`
 
 ### Filtros sugeridos
 
-- Tipo de documento: article, preprint, working paper, review
-- Anios: 2018-2026 para estado reciente
-- Idioma: ingles como base; agregar variantes si aplica
-- Relevancia tematica: productividad, crecimiento, adopcion, firmas
+- Systematic Review
+- Meta-analysis
+- Research Agenda
 
-### Orden sugerido
+### Paper recomendado
 
-- Relevance para primer barrido
-- Cited by count para identificar clasicos recientes
-- Publication date para observar frontera del tema
+`The artificial intelligence-productivity relationship: a systematic literature review and research agenda`
 
-### Que observar
+### Nuevo concepto
 
-- Titulos que combinen IA con productividad
-- Revistas o series de working papers recurrentes
-- Concentracion por anos
-- Autores repetidos
-
-### Como exportar
-
-- Guardar referencias en CSV, RIS o gestor bibliografico
-- Crear una hoja simple con titulo, autor, anio, DOI, tipo y observaciones
-
-### Como identificar papers importantes
-
-- Alta citacion con pertinencia clara
-- Revisiones o surveys
-- Estudios con datos de firmas o macroeconomia
-- Papers citados por instituciones fuertes
+Seed Paper
 
 ### Salida esperada
 
-- Corpus inicial de literatura
-- Hoja de evidencia con metadatos basicos
-- Primer conjunto de papers ancla
+- Best Starting Paper
+- Punto de entrada metodologicamente fuerte
+- Base inicial para visualizacion y lectura
 
-### Errores comunes
+### Mensaje
 
-- Quedarse con los primeros resultados
-- No registrar filtros aplicados
-- Mezclar papers irrelevantes por similitud verbal
+Las investigadoras no comienzan leyendo cien papers.
+
+Comienzan con el paper correcto.
 
 ### Buenas practicas
 
-- Documentar exactamente la consulta y los filtros
-- Separar corpus amplio de corpus prioritario
-- Etiquetar papers ancla desde el inicio
+- Priorizar revisiones, meta-analisis o research agendas
+- Buscar un paper con buena capacidad de irradiar al resto del campo
+- Registrar por que ese paper fue elegido
 
-### Tip de investigacion
+### Errores comunes
 
-OpenAlex es la puerta de entrada al universo cientifico; no es todavia la fase de validacion.
+- Empezar por el paper mas popular sin criterio
+- Elegir un paper demasiado estrecho
+- Saltarse la idea de paper semilla
 
-### Tiempo requerido
+### Tiempo sugerido
 
-25 a 40 minutos
+15 a 20 minutos
 
 ### Transicion
 
-Con un corpus inicial, el siguiente paso es identificar autores y trabajos influyentes.
+Una vez tenemos un seed paper, ya no miramos literatura como lista: la miramos como sistema.
 
-## Paso 3: Semantic Scholar
+## Etapa 5: Knowledge Map
 
-### Proposito
+### Pregunta cientifica
 
-Identificar investigadores lideres.
+How has this scientific field evolved?
 
-### Por que ahora
+### Herramienta actual
 
-Porque necesitamos saber quien esta moldeando la conversacion y que trabajos concentran influencia.
+Litmaps
 
-### URL oficial
+### Regla de uso
 
-[Semantic Scholar](https://www.semanticscholar.org)
+Buscar usando el Seed Paper.
 
-### Consulta exacta
-
-`"artificial intelligence" productivity "emerging economies"`
-
-### Que observar
-
-- Citation counts
-- Highly influential papers
-- Autores recurrentes
-- Research groups y afiliaciones
+Nunca usar keywords en esta etapa.
 
 ### Salida esperada
-
-- Lista de autores clave
-- Papers influyentes priorizados
-- Posibles grupos de investigacion y redes
-
-### Errores comunes
-
-- Igualar citacion con calidad
-- Ignorar papers recientes por menor citacion acumulada
-- Suponer que influencia equivale a consenso
-
-### Buenas practicas
-
-- Usar citacion como senal, no como veredicto
-- Comparar papers muy citados con papers recientes bien alineados
-- Registrar autores y lineas de trabajo
-
-### Tip de investigacion
-
-La pregunta no es solo "quien es citado", sino "quien esta estructurando el debate".
-
-### Tiempo requerido
-
-20 a 30 minutos
-
-### Transicion
-
-Ahora que tenemos autores y papers ancla, podemos construir el grafo del conocimiento.
-
-## Paso 4: ResearchRabbit
-
-### Proposito
-
-Construir el knowledge graph.
-
-### Por que ahora
-
-Porque necesitamos ver conexiones que una lista lineal de papers no revela.
-
-### URL oficial
-
-[ResearchRabbit](https://www.researchrabbit.ai)
-
-### Consulta o punto de partida
-
-Comenzar desde 1 a 3 papers ancla validados en OpenAlex o Semantic Scholar.
-
-### Que mostrar
-
-- Como crear una coleccion
-- Como empezar desde un paper
-- Como expandir la red
-- Como leer el grafo
-
-### Que significa el grafo
-
-- Cercania tematica
-- Vecindades de citacion
-- Autores o clusters conectados
-
-### Que no asumir
-
-- Que todo nodo cercano es relevante
-- Que visualmente grande equivale a mejor evidencia
-- Que el grafo reemplaza la lectura critica
-
-### Salida esperada
-
-- Coleccion de papers conectados
-- Mapa de autores y trabajos vecinos
-- Pistas sobre subcampos y escuelas
-
-### Errores comunes
-
-- Expandir sin criterio y perder foco
-- Confiar en la visualizacion sin regresar al paper
-- Confundir relacion de citacion con apoyo empirico
-
-### Buenas practicas
-
-- Expandir desde papers ancla
-- Guardar solo conexiones utiles
-- Etiquetar clusters con lenguaje metodologico
-
-### Tip de investigacion
-
-Use el grafo para formular nuevas preguntas de lectura, no para declarar conclusiones.
-
-### Tiempo requerido
-
-20 a 30 minutos
-
-### Transicion
-
-Con el grafo armado, el siguiente paso es ver la evolucion temporal del campo.
-
-## Paso 5: Litmaps
-
-### Proposito
-
-Visualizar la evolucion de la investigacion.
-
-### Por que ahora
-
-Porque necesitamos ver como cambia el campo en el tiempo y donde aparecen publicaciones recientes.
-
-### URL oficial
-
-[Litmaps](https://www.litmaps.com)
-
-### Punto de partida
-
-Usar 1 a 3 papers ancla ya validados.
-
-### Que observar
 
 - Timeline
-- Evolucion del tema
 - Clusters
-- Publicaciones recientes
+- Connections
+- Authors
+- Evolution
+- Knowledge Map
 
-### Salida esperada
+### Mensaje
 
-- Mapa temporal del campo
-- Lectura de frontier papers
-- Identificacion de oleadas o quiebres
+Dejamos de mirar papers aislados.
 
-### Errores comunes
-
-- Tomar todo lo reciente como importante
-- No distinguir entre novedad y calidad
-- Quedarse con la visual sin revisar el paper
+Empezamos a entender el conocimiento cientifico como sistema.
 
 ### Buenas practicas
 
-- Combinar antiguedad, citacion y relevancia
-- Marcar trabajos recientes para lectura posterior
-- Buscar cambios en conceptos y enfoques
+- Seguir conexiones desde el seed paper
+- Identificar ramas, clusters y fronteras temporales
+- Distinguir visualizacion de interpretacion
 
-### Tip de investigacion
+### Errores comunes
 
-Los mapas temporales ayudan a ver si el tema esta madurando, explotando o fragmentandose.
+- Suponer que cercania visual implica consenso
+- Usar keywords otra vez en lugar del seed paper
+- Tratar el mapa como sustituto de lectura
 
-### Tiempo requerido
+### Tiempo sugerido
 
 15 a 25 minutos
 
 ### Transicion
 
-Con el campo mapeado, ya podemos formular una pregunta de evidencia mas concreta.
+Con el mapa del conocimiento visible, toca preguntar que dice realmente la evidencia.
 
-## Paso 6: Consensus
+## Etapa 6: Scientific Evidence
 
-### Proposito
+### Pregunta cientifica
 
-Responder una pregunta de evidencia.
+What does the scientific evidence say?
 
-### Por que ahora
+### Herramienta actual
 
-Porque necesitamos una primera lectura de si la evidencia cientifica apoya o no una afirmacion puntual.
+Consensus
 
-### URL oficial
+### Consulta exacta
 
-[Consensus](https://consensus.app)
-
-### Pregunta exacta
-
-`Does scientific evidence support that AI improves productivity?`
-
-### Que observar
-
-- Direccion general del consenso
-- Nivel de confianza percibido
-- Tipos de evidencia citada
-- Limitaciones de cobertura
+`Does artificial intelligence improve productivity?`
 
 ### Salida esperada
 
-- Primera respuesta basada en evidencia
-- Lista de papers para validacion posterior
-- Lenguaje mas preciso para la sintesis
+- Consensus Meter
+- Evidence Strength
+- Supporting Studies
+- Evidence Summary
 
-### Errores comunes
+### Mensaje
 
-- Confundir consenso resumido con verdad definitiva
-- No revisar las fuentes debajo de la respuesta
-- Ignorar condiciones y matices
+La investigacion moderna no busca opiniones.
+
+Busca evidencia.
 
 ### Buenas practicas
 
-- Usar Consensus para formular hipotesis mas refinadas
-- Contrastar lo que aparece aqui con Scite y lectura directa
-- Registrar los caveats
+- Usar la respuesta como lectura preliminar, no como veredicto final
+- Contrastar el resumen con las fuentes debajo
+- Registrar condiciones y limites
 
-### Tip de investigacion
+### Errores comunes
 
-Una respuesta breve es util si abre una ruta de verificacion, no si la cierra.
+- Tomar el consenso como prueba suficiente
+- Ignorar incertidumbre o condicionantes
+- No volver a los estudios citados
 
-### Tiempo requerido
+### Tiempo sugerido
 
 10 a 15 minutos
 
 ### Transicion
 
-Si ya tenemos una respuesta preliminar, ahora debemos validar la fuerza y el conflicto de las citas.
+Con evidencia preliminar medida, la siguiente pregunta es que concluye el conjunto de estudios.
 
-## Paso 7: Scite
+## Etapa 7: Literature Synthesis
 
-### Proposito
+### Pregunta cientifica
 
-Validar citas.
+What does the literature conclude?
 
-### Por que ahora
+### Herramienta actual
 
-Porque no basta saber que un paper es citado; necesitamos saber como esta siendo citado.
+SciSpace
 
-### URL oficial
+### Consulta exacta
 
-[Scite](https://scite.ai)
-
-### Que observar
-
-- Supporting papers
-- Contrasting papers
-- Disputed papers
-
-### Que explica este paso
-
-La diferencia entre citacion total y calidad de uso de la cita.
+`Experimental evidence on the productivity effects of generative artificial intelligence`
 
 ### Salida esperada
 
-- Mejor comprension del peso real de un paper
-- Lista de fuentes que apoyan o desafian hallazgos
-- Base para lectura mas critica
+- Multi-database search
+- Literature synthesis
+- TLDR
+- Thematic organization
+- References
+- Markdown export
+- Key findings
 
-### Errores comunes
+### Mensaje
 
-- Quedarse solo con el conteo total
-- Ignorar citas en contraste
-- Suponer que supporting implica prueba definitiva
+SciSpace no resume un solo paper.
+
+Sintetiza decenas de estudios en una primera revision de literatura.
 
 ### Buenas practicas
 
-- Revisar trabajos con patron mixto de apoyo y contraste
-- Registrar contradicciones desde ahora
-- Priorizar papers utiles para controversias
+- Comparar temas, metodos y hallazgos
+- Exportar markdown para trabajo posterior
+- Conservar referencias y trazabilidad
 
-### Tip de investigacion
+### Errores comunes
 
-Scite ayuda a convertir "papers populares" en "papers evaluados con contexto".
+- Confundir sintesis inicial con revision definitiva
+- Perder las referencias al exportar
+- Usar solo el TLDR y no la organizacion tematica
 
-### Tiempo requerido
+### Tiempo sugerido
 
-15 a 20 minutos
+25 a 35 minutos
 
 ### Transicion
 
-Con la validacion contextual de citas, ahora toca leer metodos, tablas y limitaciones con mas precision.
+La sintesis ya existe. Ahora necesitamos memoria cientifica persistente.
 
-## Paso 8: SciSpace
+## Etapa 8: Scientific Memory
 
-### Proposito
+### Pregunta cientifica
 
-Leer eficientemente.
+How do I organize everything?
 
-### Por que ahora
+### Herramienta actual
 
-Porque necesitamos pasar de metadatos y grafos a lectura metodologica comparada.
+NotebookLM
 
-### URL oficial
+### Insumos
 
-[SciSpace](https://typeset.io)
-
-### Que observar
-
-- Methods
-- Figures
-- Tables
-- Limitations
-- Diferencias entre papers
+- Downloaded Papers
+- Markdown generated by SciSpace
+- Research Notes
+- PDFs
 
 ### Salida esperada
 
-- Notas comparativas por paper
-- Resumen de metodos y datos
-- Identificacion de limites y supuestos
-
-### Errores comunes
-
-- Leer solo el abstract
-- Copiar explicaciones sin validar contra el PDF
-- Ignorar tablas o apendices
-
-### Buenas practicas
-
-- Comparar al menos dos papers por metodo, datos y geografia
-- Registrar limites del estudio
-- Marcar donde la evidencia es empirica y donde es especulativa
-
-### Tip de investigacion
-
-La lectura eficiente no reemplaza la lectura lenta; la prioriza mejor.
-
-### Tiempo requerido
-
-30 a 45 minutos
-
-### Transicion
-
-Tras leer y comparar, necesitamos consolidar memoria de investigacion reusable.
-
-## Paso 9: NotebookLM
-
-### Proposito
-
-Crear memoria de investigacion.
-
-### Por que ahora
-
-Porque ya tenemos un subconjunto de papers validados y necesitamos organizarlos para trabajar con contexto persistente.
-
-### URL oficial
-
-[NotebookLM](https://notebooklm.google.com)
-
-### Que cargar
-
-- Papers priorizados
-- Revisiones sistematicas
-- Reportes institucionales
-- Notas propias si conviene
-
-### Que generar
-
-- Timeline
-- FAQ
+- Knowledge Base
 - Podcast
-- Study guide
-- Notebook
-- Knowledge base
+- Timeline
+- Comparisons
+- Questions
+- Research Memory
 
-### Salida esperada
+### Mensaje
 
-- Base de conocimiento organizada
-- Preguntas frecuentes del corpus
-- Resumen navegable de hallazgos y tensiones
+NotebookLM no busca.
 
-### Errores comunes
-
-- Subir un corpus demasiado sucio
-- Confiar en cualquier resumen sin revisar fuente
-- Usar audios o FAQ como sustituto de lectura
+NotebookLM recuerda.
 
 ### Buenas practicas
 
-- Cargar solo evidencia ya filtrada
-- Usar prompts que pidan comparaciones y citas
-- Conservar una estructura clara por temas
+- Cargar solo corpus ya filtrado
+- Organizar el notebook alrededor de la pregunta central
+- Usar comparaciones y FAQ para consolidar criterio
 
-### Tip de investigacion
+### Errores comunes
 
-NotebookLM es memoria de trabajo, no arbitro epistemologico.
+- Subir corpus sucio o no validado
+- Usar el notebook como sustituto del juicio investigador
+- Olvidar que la memoria debe servir para escribir mejor
 
-### Tiempo requerido
+### Tiempo sugerido
 
 20 a 30 minutos
 
 ### Transicion
 
-Con memoria validada, podemos pasar a la etapa de comunicacion cientifica.
+Con memoria cientifica construida, ya podemos transformar evidencia en productos de comunicacion.
 
-## Paso 10: LLM general
+## Etapa 9: Scientific Communication
 
-### Proposito
+### Pregunta cientifica
 
-Transformar evidencia validada en comunicacion cientifica.
+How do I transform evidence into scientific communication?
 
-### Por que ahora
+### Herramientas actuales
 
-Porque solo al final tiene sentido pedir outline, gaps o borradores.
+- ChatGPT
+- Claude
 
-### URL oficial
+### Prompt rector
 
-Puede usarse un LLM general confiable. La regla metodologica es mas importante que la marca.
+`Using the synthesized literature generate: Executive Summary, Literature Review, Research Gap, Future Research, Research Proposal, Scientific Presentation, Executive Report`
 
-### Que generar
+### Salida esperada
 
-- Research outline
-- Literature review
-- Research gaps
-- Future work
-- Draft manuscript
+- Executive Summary
+- Literature Review
+- Research Gap
+- Future Research
+- Research Proposal
+- Scientific Presentation
+- Executive Report
+
+### Mensaje
+
+La inteligencia artificial ayuda a comunicar conocimiento.
+
+No reemplaza el razonamiento cientifico.
 
 ### Regla critica
 
@@ -665,54 +487,38 @@ Nunca inventar referencias.
 
 Solo usar evidencia validada.
 
-### Salida esperada
+### Buenas practicas
 
-- Outline de investigacion
-- Borrador de revision de literatura
-- Lista de gaps
-- Agenda de futuro trabajo
+- Entregar al modelo solo corpus sintetizado y trazable
+- Pedir productos cientificos especificos
+- Verificar toda referencia antes de reutilizarla
 
 ### Errores comunes
 
-- Pedir texto sin corpus validado
-- Dejar que el modelo agregue referencias inexistentes
-- Pedir conclusions demasiado fuertes
+- Pedir redaccion sin sintesis previa
+- Dejar que el modelo agregue fuentes inexistentes
+- Confundir fluidez textual con calidad cientifica
 
-### Buenas practicas
+### Tiempo sugerido
 
-- Entregar al modelo solo evidencia filtrada
-- Pedir citas textuales o identificadores claros
-- Verificar cada referencia antes de usarla
+20 a 30 minutos
 
-### Tip de investigacion
+## Tabla central del workflow
 
-Un LLM es util cuando convierte estructura y evidencia en texto legible sin romper trazabilidad.
+| Transformation | Scientific Question | Tool | Expected Result |
+| --- | --- | --- | --- |
+| Scientific Question | What do I want to investigate? | Researcher | Research Question |
+| Scientific Language | How does the community talk about this problem? | Perplexity | Concept Map |
+| Scientific Corpus | What literature exists? | OpenAlex | Scientific Corpus |
+| Seed Paper | Where should I begin? | Semantic Scholar | Best Starting Paper |
+| Knowledge Evolution | How has the field evolved? | Litmaps | Knowledge Map |
+| Evidence | What does science conclude? | Consensus | Evidence Strength |
+| Literature Synthesis | What do all studies conclude? | SciSpace | Initial Literature Review |
+| Scientific Memory | How do I organize knowledge? | NotebookLM | Knowledge Base |
+| Scientific Communication | How do I communicate my findings? | ChatGPT / Claude | Scientific Product |
 
-### Tiempo requerido
+## Regla final
 
-20 a 35 minutos
+Las herramientas cambiaran.
 
-### Transicion
-
-El trabajo ya no termina en un resumen: termina en un gap de investigacion y futuras lineas cientificas.
-
-## Seccion especial: Errores comunes
-
-- Hallucinations
-- Fake references
-- Overtrust
-- Confirmation bias
-- Ignoring contradictory evidence
-
-Consulte [common-mistakes.md](common-mistakes.md).
-
-## Checklist antes de empezar
-
-- Internet estable
-- Cuentas abiertas
-- Pestanas listas
-- Carpeta de PDFs creada
-- Libreta o notebook preparado
-- Duracion estimada definida
-
-Consulte [live-demo-checklist.md](live-demo-checklist.md).
+La metodologia debe permanecer.

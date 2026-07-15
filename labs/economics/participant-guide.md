@@ -2,38 +2,38 @@
 
 ## Objetivo
 
-Permitir que cualquier participante replique el laboratorio por su cuenta.
+Permitir que cualquier participante replique el laboratorio por su cuenta con el mismo flujo metodologico.
 
 ## Pregunta de investigacion
 
-**Como esta impactando la inteligencia artificial la productividad y el crecimiento economico en economias emergentes?**
+**How is Generative Artificial Intelligence impacting productivity and economic growth?**
 
 ## Antes de empezar
 
-- Tener internet estable
-- Abrir cuentas necesarias
-- Preparar carpeta de PDFs
-- Tener una hoja para registrar hallazgos
-- Mantener visible la pregunta central
+- Tener internet estable.
+- Abrir las cuentas necesarias.
+- Preparar una carpeta para descargar y organizar PDFs.
+- Tener un documento para registrar consultas, filtros y decisiones.
+- Mantener visible la pregunta central durante toda la sesion.
 
 ## Como usar esta guia
 
-1. Complete el Paso 0 antes de buscar nada.
-2. No salte directamente al LLM general.
-3. Registre consultas exactas, filtros y decisiones.
-4. Guarde papers ancla y evidencia contradictoria.
-5. Verifique siempre las referencias antes de escribir.
+1. Empiece por la Scientific Question y mantenga fija esa pregunta.
+2. No salte directamente a la comunicacion final.
+3. Registre consultas exactas, filtros y decisiones metodologicas.
+4. Guarde el seed paper, evidencia contradictoria y hallazgos clave.
+5. Verifique siempre las referencias antes de escribir cualquier salida final.
 
 ## Resultado minimo esperado
 
-- Lista de keywords
-- Corpus inicial
-- Papers ancla
-- Grafo o mapa del campo
-- Notas de lectura comparada
-- Base de conocimiento
-- Gap de investigacion
+- Conceptos y keywords del dominio.
+- Corpus cientifico inicial.
+- Seed paper validado.
+- Knowledge map del campo.
+- Evidencia sintetizada.
+- Base de conocimiento en NotebookLM.
+- Un producto inicial de comunicacion cientifica.
 
 ## Regla de oro
 
-Si un hallazgo no puede rastrearse a una fuente validada, no debe entrar a la salida final.
+Si un hallazgo no puede rastrearse a una fuente validada dentro del flujo, no debe entrar a la salida final.

@@ -10,13 +10,13 @@ Introducir la metodologia en formato de clase sin cubrir todas las herramientas 
 
 ## Recorte recomendado
 
-- Paso 0
-- Paso 1
-- Paso 2
-- Paso 6
-- Paso 8
-- Paso 10
+- Scientific Question
+- Scientific Language
+- Scientific Corpus
+- Scientific Evidence
+- Scientific Memory
+- Scientific Communication
 
 ## Resultado esperado
 
-El grupo entiende la logica metodologica y puede continuar el resto como tarea.
+El grupo entiende la logica del Research Intelligence Workflow y puede continuar el resto como tarea.

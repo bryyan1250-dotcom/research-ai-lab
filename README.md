@@ -4,7 +4,7 @@
 
 Open Research. Open Science. Open Intelligence.
 
-Research AI Lab is a long-term open initiative for building rigorous, reproducible, and community-driven methodologies for AI-assisted scientific research in Spanish-speaking and global contexts. It is designed as a durable public foundation: part open documentation system, part methodological toolkit, part applied laboratory network, and part future research ecosystem.
+Research AI Lab is a long-term open initiative for building rigorous, reproducible, and community-driven methodologies for scientific research supported by specialized artificial intelligence. It is designed as a durable public foundation: part open documentation system, part methodological toolkit, part applied laboratory network, and part future research ecosystem.
 
 ## Why This Exists
 
@@ -14,7 +14,7 @@ The opportunity is real, but so is the risk. Better tools do not automatically p
 
 Research AI Lab exists to help solve that problem.
 
-We are building an open architecture for responsible AI-assisted research that is:
+We are building an open architecture for responsible research intelligence that is:
 
 - Methodology first
 - Evidence driven
@@ -31,6 +31,16 @@ This repository contains the Version 1.0 foundation of the initiative:
 - The initial canonical methodology lab in [`labs/economics/`](labs/economics/)
 - The first toolkit architecture in [`toolkit/`](toolkit/)
 - Prompt, template, example, and community scaffolding for future releases
+
+## Core Workflow
+
+Research AI Lab now presents one central architecture:
+
+`Scientific Question -> Scientific Language -> Scientific Corpus -> Seed Paper -> Knowledge Map -> Scientific Evidence -> Literature Synthesis -> Scientific Memory -> Scientific Communication`
+
+The tools may change.
+
+The workflow should remain valid.
 
 ## Start Here
 
@@ -52,7 +62,7 @@ If someone lands here for the first time, they should be able to orient fast:
 
 The fastest path to understanding Research AI Lab is not the full architecture first.
 
-It is seeing one real research workflow from question to research gap.
+It is seeing one real research workflow from scientific question to evidence-based knowledge.
 
 ## Repository Structure
 
@@ -93,8 +103,8 @@ Version 1.0 does not attempt to launch every future module. It creates the archi
 ## Available Laboratories
 
 - Economics Lab
-  - Research question: How is Artificial Intelligence impacting productivity and economic growth in emerging economies?
-  - Purpose: Canonical implementation of the Research AI Lab methodology for Version 1.0
+  - Research question: How is Generative Artificial Intelligence impacting productivity and economic growth?
+  - Purpose: Canonical implementation of the Research Intelligence Workflow
 
 Planned in the roadmap:
 
@@ -140,7 +150,7 @@ If you want to do something practical tomorrow morning, start here:
 
 Research AI Lab is guided by a simple conviction:
 
-AI should expand the reach and quality of research, not weaken its standards.
+Artificial intelligence should amplify scientific reasoning, not weaken scientific standards.
 
 That means every workflow in this initiative should protect:
 

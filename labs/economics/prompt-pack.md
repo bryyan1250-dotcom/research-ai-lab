@@ -2,52 +2,44 @@
 
 ## Regla general
 
-Use estos prompts solo despues de completar el paso correspondiente.
+Use estos prompts para reforzar transformaciones cognitivas, no para delegar juicio cientifico.
 
-## Paso 0: Planeacion
+## Scientific Question
 
-`Ayudame a convertir esta pregunta en un plan de investigacion. Separa objetivo, alcance, keywords, hipotesis y salidas esperadas. No inventes referencias.`
+`Ayudame a convertir esta curiosidad en una pregunta de investigacion clara. Separa pregunta, objetivo, alcance y supuestos. No inventes referencias.`
 
-## Paso 1: Perplexity
+## Scientific Language
 
-`Resume los conceptos mas recurrentes de esta respuesta y separa keywords, instituciones, reportes y supuestos no comprobados.`
+`A partir de esta exploracion inicial, separa conceptos, keywords, sinonimos, variables, dimensiones y posibles hipotesis. No concluyas; solo construye lenguaje cientifico.`
 
-## Paso 2: OpenAlex
+## Scientific Corpus
 
-`Con esta lista de resultados, ayuda a clasificar por relevancia, tipo de fuente, anio, geografia y posible utilidad para la pregunta principal.`
+`Con esta lista de resultados, clasifica por relevancia, autor, journal, DOI, institucion y utilidad para la pregunta central.`
 
-## Paso 3: Semantic Scholar
+## Seed Paper
 
-`A partir de estos autores y papers, identifica quienes parecen estructurar el debate y explica por que. No confundas citacion con calidad.`
+`Entre estos resultados, cual deberia ser el seed paper ideal para comenzar y por que? Prioriza revisiones sistematicas, meta-analisis o research agendas.`
 
-## Paso 4: ResearchRabbit
+## Knowledge Map
 
-`Describe este grafo en terminos de clusters, autores puente y posibles subtemas. No asumas causalidad ni consenso.`
+`Describe este mapa de conocimiento en terminos de evolucion, clusters, conexiones y posibles ramas del campo. No asumas consenso ni causalidad.`
 
-## Paso 5: Litmaps
+## Scientific Evidence
 
-`A partir de este mapa temporal, explica como parece evolucionar el tema y que publicaciones recientes merecen lectura.`
+`Resume que parece decir la evidencia sobre esta pregunta. Distingue fuerza de evidencia, condiciones, apoyo y limites.`
 
-## Paso 6: Consensus
+## Literature Synthesis
 
-`Resume la direccion general de la evidencia sobre la pregunta. Distingue apoyo, matices, condiciones y limites.`
+`Organiza esta sintesis en temas, metodos, resultados, tensiones y referencias clave. Trata esto como una primera revision de literatura, no como un veredicto final.`
 
-## Paso 7: Scite
+## Scientific Memory
 
-`Compara estos patrones de supporting, contrasting y disputing. Que papers merecen lectura prioritaria y por que?`
+`Construye una FAQ del corpus y una lista de comparaciones entre estudios. Cada respuesta debe poder rastrearse al material cargado.`
 
-## Paso 8: SciSpace
+## Scientific Communication
 
-`Compara estos dos papers segun metodo, datos, geografia, hallazgos, limites y utilidad para economias emergentes.`
-
-## Paso 9: NotebookLM
-
-`Construye una FAQ del corpus. Cada respuesta debe indicar que tipo de fuente o evidencia la sustenta.`
-
-## Paso 10: LLM general
-
-`Con base unicamente en esta evidencia validada, redacta un outline de revision de literatura con: contexto, escuelas de pensamiento, controversias, gap de investigacion y futuras lineas de trabajo. No inventes referencias.`
+`Usando solo esta evidencia sintetizada y validada, genera: executive summary, literature review, research gap, future research y research proposal. No inventes referencias.`
 
 ## Prompt de control
 
-`Antes de responder, enumera que afirmaciones estan sustentadas por evidencia y cuales serian solo inferencias.`
+`Antes de responder, enumera que afirmaciones estan sustentadas por evidencia y cuales serian inferencias o extrapolaciones.`

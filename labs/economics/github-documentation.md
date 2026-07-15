@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Explicar como publicar este laboratorio en el repositorio como referencia reproducible.
+Explicar como publicar este laboratorio como referencia reproducible del Research Intelligence Workflow.
 
 ## Archivos minimos recomendados
 
@@ -19,17 +19,21 @@ Explicar como publicar este laboratorio en el repositorio como referencia reprod
 
 ## Evidencia que debe guardarse
 
+- Pregunta de investigacion
 - Consultas exactas
 - Filtros usados
-- Lista de papers ancla
-- Notas de lectura
-- Contradicciones registradas
-- Gap de investigacion final
+- Seed paper
+- Mapa de conocimiento
+- Evidencia y contradicciones registradas
+- Sintesis de literatura
+- Memoria de investigacion
+- Gap final
 
 ## Principios de publicacion
 
-- Mantener la pregunta visible
-- Documentar decisiones, no solo resultados
+- Mantener visible la pregunta central
+- Publicar el workflow antes que los nombres de producto
+- Documentar transformaciones cognitivas, no solo resultados
 - Evitar lenguaje de marketing
 - No subir referencias inventadas
 - Preservar trazabilidad

@@ -2,34 +2,35 @@
 
 ## Objetivo
 
-Definir que debe entrar al notebook de referencia del laboratorio.
+Definir que debe entrar a la memoria cientifica del laboratorio.
 
 ## Carpeta sugerida
 
-- 5 a 10 papers ancla
-- 2 a 4 revisiones o surveys
-- 2 a 4 reportes institucionales
-- Notas comparativas del laboratorio
+- Seed paper principal.
+- 5 a 10 papers ancla.
+- 2 a 4 revisiones o surveys.
+- Export de sintesis generado en SciSpace.
+- Notas comparativas del laboratorio.
 
 ## Estructura sugerida del notebook
 
-- Pregunta central
-- Papers fundacionales
-- Papers recientes
-- Autores y escuelas
-- Controversias
-- Gap de investigacion
+- Pregunta central.
+- Lenguaje cientifico clave.
+- Papers fundacionales.
+- Evidencia de soporte.
+- Evidencia contradictoria.
+- Gap de investigacion.
 
 ## Productos a generar
 
-- Timeline
-- FAQ
-- Study guide
-- Knowledge base
-- Audio summary opcional
+- FAQ.
+- Study guide.
+- Comparaciones entre estudios.
+- Knowledge base.
+- Audio summary opcional.
 
 ## Regla de calidad
 
-No cargar basura documental.
+NotebookLM no descubre literatura.
 
-NotebookLM debe construirse con corpus limpio y validado.
+NotebookLM conserva y organiza un corpus limpio, validado y metodologicamente curado.

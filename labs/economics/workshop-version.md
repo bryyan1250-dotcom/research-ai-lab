@@ -10,13 +10,13 @@ Permitir que un grupo recorra el flujo completo con acompanamiento.
 
 ## Estructura
 
-1. Apertura y pregunta central
-2. Planeacion colectiva
-3. Descubrimiento y literatura
-4. Validacion y lectura
-5. Memoria y escritura
-6. Cierre con gap de investigacion
+1. Scientific Question
+2. Scientific Language
+3. Scientific Corpus
+4. Seed Paper y Knowledge Map
+5. Scientific Evidence y Literature Synthesis
+6. Scientific Memory y Communication
 
 ## Resultado esperado
 
-Cada equipo sale con su propio mini flujo replicable.
+Cada equipo sale con un workflow replicable, no con una lista de herramientas sueltas.

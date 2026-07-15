@@ -10,12 +10,12 @@ Permitir que una persona complete el laboratorio sola y a su ritmo.
 
 ## Secuencia recomendada
 
-- Bloque 1: Planeacion y panorama
-- Bloque 2: Literatura y autores
-- Bloque 3: Grafo y evolucion
-- Bloque 4: Evidencia y lectura
-- Bloque 5: Memoria y escritura
+- Bloque 1: Scientific Question y Scientific Language
+- Bloque 2: Scientific Corpus y Seed Paper
+- Bloque 3: Knowledge Map y Scientific Evidence
+- Bloque 4: Literature Synthesis y Scientific Memory
+- Bloque 5: Scientific Communication
 
 ## Consejo principal
 
-No intente producir el borrador final en el primer bloque. Primero construya evidencia.
+No intente producir el borrador final en el primer bloque. Primero construya lenguaje, corpus, evidencia y memoria.

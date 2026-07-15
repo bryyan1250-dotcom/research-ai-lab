@@ -6,7 +6,7 @@ Este es el primer laboratorio oficial de Research AI Lab y la implementacion de 
 
 ## Pregunta de investigacion
 
-**Como esta impactando la inteligencia artificial la productividad y el crecimiento economico en economias emergentes?**
+**How is Generative Artificial Intelligence impacting productivity and economic growth?**
 
 Mantenga esta pregunta visible durante todo el laboratorio.
 
@@ -21,7 +21,7 @@ Este laboratorio cumple cuatro funciones al mismo tiempo:
 
 ## Resultado esperado
 
-Al finalizar, cualquier investigadora o investigador deberia poder reproducir el flujo completo al dia siguiente con su propia pregunta.
+Al finalizar, cualquier investigadora o investigador deberia poder reproducir el workflow completo al dia siguiente con su propia pregunta.
 
 ## Productos de este paquete
 
@@ -39,40 +39,35 @@ Al finalizar, cualquier investigadora o investigador deberia poder reproducir el
 - [Version autodidacta](self-study-version.md)
 - [Errores comunes y sesgos](common-mistakes.md)
 
-## Flujo general
+## Research Intelligence Workflow
 
 ```text
-Pregunta de investigacion
-  -> Planeacion
-  -> Perplexity
-  -> OpenAlex
-  -> Semantic Scholar
-  -> ResearchRabbit
-  -> Litmaps
-  -> Consensus
-  -> Scite
-  -> SciSpace
-  -> NotebookLM
-  -> LLM general
-  -> Gap de investigacion
-  -> Futuro trabajo cientifico
+Scientific Question
+  -> Scientific Language
+  -> Scientific Corpus
+  -> Seed Paper
+  -> Knowledge Map
+  -> Scientific Evidence
+  -> Literature Synthesis
+  -> Scientific Memory
+  -> Scientific Communication
 ```
 
 ## Transformacion final
 
 ```text
-Pregunta de investigacion
-  -> Literatura cientifica
-  -> Evidencia
-  -> Conocimiento
-  -> Gap de investigacion
-  -> Futuras lineas de trabajo
+Scientific Question
+  -> Scientific Literature
+  -> Evidence
+  -> Knowledge
+  -> Research Gap
+  -> Future Research
 ```
 
 ## Principio metodologico
 
 Este laboratorio no explica software.
 
-Explica decisiones de investigacion.
+Explica transformaciones cognitivas y decisiones de investigacion.
 
-Cada herramienta aparece porque la investigadora necesita responder una pregunta distinta.
+Cada herramienta aparece porque la investigadora necesita responder una pregunta cientifica distinta.

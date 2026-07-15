@@ -2,49 +2,50 @@
 
 ## Objetivo
 
-Guiar la demo en vivo del laboratorio sin convertirla en tutorial de software.
+Guiar la demo en vivo del laboratorio sin convertirla en una exhibicion de software.
 
 ## Principio central
 
-Explique decisiones de investigacion, no botones.
+Explique transformaciones cognitivas, no botones.
 
 ## Apertura recomendada
 
 Empiece siempre mostrando la pregunta:
 
-**Como esta impactando la inteligencia artificial la productividad y el crecimiento economico en economias emergentes?**
+**How is Generative Artificial Intelligence impacting productivity and economic growth?**
 
 ## Estructura oral sugerida
 
-1. Formular la pregunta
-2. Explicar por que hace falta un flujo, no una sola herramienta
-3. Recorrer cada paso con una sola mision
-4. Cerrar con evidencia, gap y futuro trabajo
+1. Formular la pregunta cientifica.
+2. Explicar por que la metodologia importa mas que una herramienta aislada.
+3. Recorrer el flujo completo como una secuencia de decisiones de investigacion.
+4. Cerrar mostrando como la evidencia se convierte en conocimiento comunicable.
 
 ## Frases utiles
 
-- "Todavia no estamos concluyendo; estamos orientando el terreno."
-- "Aqui no buscamos la herramienta mas bonita, sino la decision correcta."
-- "Una cita alta no es automaticamente una cita confiable."
-- "La memoria de investigacion se construye despues de filtrar."
-- "El modelo escribe al final, no piensa por nosotros al inicio."
+- "Todavia no estamos buscando papers; estamos aprendiendo el lenguaje cientifico del problema."
+- "Cada herramienta responde una pregunta distinta dentro del proceso de investigacion."
+- "No buscamos la herramienta perfecta; buscamos la transformacion correcta en el momento correcto."
+- "La evidencia no reemplaza el criterio; lo obliga a ser mas explicito."
+- "La comunicacion ocurre al final, cuando la investigacion ya tiene memoria y trazabilidad."
 
 ## Ritmo recomendado
 
-- Paso 0 a Paso 2: orientar
-- Paso 3 a Paso 5: estructurar el campo
-- Paso 6 a Paso 8: validar y leer
-- Paso 9 a Paso 10: consolidar y comunicar
+- Scientific Question y Scientific Language: orientar el problema.
+- Scientific Corpus y Seed Paper: estructurar el campo.
+- Knowledge Map, Scientific Evidence y Literature Synthesis: interpretar el estado del conocimiento.
+- Scientific Memory y Scientific Communication: consolidar y comunicar.
 
 ## Lo que debe evitarse en escenario
 
-- Entrar en funciones secundarias de cada herramienta
-- Abrir demasiadas pestanas sin hilo narrativo
-- Leer respuestas en voz alta sin interpretarlas
-- Prometer certeza donde solo hay indicios
+- Entrar en funciones secundarias de cada plataforma.
+- Cambiar de pregunta a mitad de la demostracion.
+- Leer respuestas en voz alta sin interpretarlas.
+- Presentar software antes de presentar la pregunta cientifica.
+- Prometer certeza cuando solo existe evidencia parcial o contradictoria.
 
 ## Cierre recomendado
 
 Termine con esta idea:
 
-La inteligencia artificial no reemplaza la investigacion. La vuelve mas orquestable cuando la metodologia sigue siendo humana y explicita.
+La inteligencia artificial no reemplaza la investigacion. La vuelve mas orquestable cuando la metodologia sigue siendo humana, trazable y explicita.

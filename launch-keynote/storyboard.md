@@ -3,167 +3,117 @@
 ## Estructura general
 
 ## Slide 1 · Research AI Lab
-Capítulo: INTRO
-Objetivo: Presentar el lanzamiento como el nacimiento de una iniciativa abierta.
-Tratamiento visual: Portada minimalista con regla roja, tipografía dominante y mucho espacio en blanco.
+Capitulo: INTRO
+Objetivo: Presentar Research AI Lab como una metodologia abierta para investigar mejor.
+Tratamiento visual: Portada blanca, minima, con tipografia dominante y una sola linea de acento.
 
-## Slide 2 · Imagina que mañana debes empezar tu estado del arte.
-Capítulo: WHY
-Objetivo: Abrir una escena narrativa o introducir el laboratorio como experiencia.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 2 · Tomorrow morning you need to begin a serious investigation.
+Capitulo: WHY
+Objetivo: Abrir el problema humano de comenzar una investigacion seria.
+Tratamiento visual: Escena editorial de alta legibilidad, sin ruido visual.
 
-## Slide 3 · "Prepara un estado del arte completo sobre este tema."
-Capítulo: WHY
-Objetivo: Materializar la presión real que enfrenta una investigadora.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 3 · "Prepare a complete state of the art on this topic."
+Capitulo: WHY
+Objetivo: Materializar la presion cognitiva del trabajo cientifico moderno.
+Tratamiento visual: Centro emocional del problema, casi sin elementos secundarios.
 
-## Slide 4 · ¿Cómo está impactando la inteligencia artificial la productividad y el crecimiento económico en economías emergentes?
-Capítulo: WHY
-Objetivo: Fijar la pregunta canónica del laboratorio.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 4 · How is Generative Artificial Intelligence impacting productivity and economic growth?
+Capitulo: WHY
+Objetivo: Fijar la unica pregunta de investigacion de toda la conferencia.
+Tratamiento visual: Una sola pregunta a gran escala, sin distracciones.
 
-## Slide 5 · Toda investigación comienza con incertidumbre.
-Capítulo: WHY
-Objetivo: Condensar la tesis conceptual de la sección.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 5 · Research always begins with a question.
+Capitulo: WHY
+Objetivo: Condensar una tesis metodologica central.
+Tratamiento visual: Una sola tesis por slide, con maximo espacio en blanco.
 
 ## Slide 6 · WHAT
-Capítulo: WHAT
-Objetivo: Separar capítulos y resetear la atención del público.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+Capitulo: WHAT
+Objetivo: Separar capitulos y cambiar el tipo de atencion del publico.
+Tratamiento visual: Separador austero, tipografico y respirado.
 
-## Slide 7 · Flujo tradicional
-Capítulo: WHAT
-Objetivo: Visualizar un flujo o una transformación secuencial.
-Tratamiento visual: Secuencia vertical de lectura inmediata con flechas mínimas.
+## Slide 7 · The methodology is permanent.
+Capitulo: WHAT
+Objetivo: Condensar una tesis metodologica central.
+Tratamiento visual: Una sola tesis por slide, con maximo espacio en blanco.
 
-## Slide 8 · Investigar ya no es solo buscar.
-Capítulo: WHAT
-Objetivo: Condensar la tesis conceptual de la sección.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 8 · Research Intelligence Workflow
+Capitulo: WHAT
+Objetivo: Mostrar un flujo cognitivo completo que debe recordarse facilmente.
+Tratamiento visual: Secuencia vertical simple para fijar memoria del proceso.
 
-## Slide 9 · Research AI Stack
-Capítulo: WHAT
-Objetivo: Visualizar un flujo o una transformación secuencial.
-Tratamiento visual: Secuencia vertical de lectura inmediata con flechas mínimas.
+## Slide 9 · Transformation Map
+Capitulo: WHAT
+Objetivo: Traducir el workflow a una arquitectura de transformaciones, preguntas y resultados.
+Tratamiento visual: Tabla limpia y jerarquica centrada en transformaciones cognitivas.
 
-## Slide 10 · HOW
-Capítulo: HOW
-Objetivo: Separar capítulos y resetear la atención del público.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 10 · Why Not Use Only One Tool?
+Capitulo: WHAT
+Objetivo: Demostrar por que ninguna herramienta puede reemplazar a las otras.
+Tratamiento visual: Comparacion racional que elimina la fantasia de una sola herramienta.
 
-## Slide 11 · Research AI Lab
-Capítulo: HOW
-Objetivo: Abrir una escena narrativa o introducir el laboratorio como experiencia.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
+## Slide 11 · HOW
+Capitulo: HOW
+Objetivo: Separar capitulos y cambiar el tipo de atencion del publico.
+Tratamiento visual: Separador austero, tipografico y respirado.
 
-## Slide 12 · Del problema a la oportunidad científica.
-Capítulo: HOW
-Objetivo: Mostrar la arquitectura completa del laboratorio.
-Tratamiento visual: Mapa horizontal en dos filas para sostener la narrativa del laboratorio.
+## Slide 12 · Scientific Language
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Scientific Language y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 13 · Perplexity
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de Perplexity dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 13 · Scientific Corpus
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Scientific Corpus y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 14 · OpenAlex
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de OpenAlex dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 14 · Seed Paper
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Seed Paper y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 15 · Semantic Scholar
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de Semantic Scholar dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 15 · Knowledge Map
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Knowledge Map y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 16 · ResearchRabbit
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de ResearchRabbit dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 16 · Scientific Evidence
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Scientific Evidence y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 17 · Litmaps
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de Litmaps dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 17 · Literature Synthesis
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Literature Synthesis y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 18 · Consensus
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de Consensus dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 18 · Scientific Memory
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Scientific Memory y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 19 · Scite
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de Scite dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 19 · Scientific Communication
+Capitulo: HOW
+Objetivo: Explicar que pregunta cientifica responde Scientific Communication y por que esa inteligencia especializada aparece ahora.
+Tratamiento visual: Plantilla metodologica fija con pregunta, herramienta, mensaje, salida y transicion.
 
-## Slide 20 · SciSpace
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de SciSpace dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 20 · WHAT NEXT
+Capitulo: WHAT NEXT
+Objetivo: Separar capitulos y cambiar el tipo de atencion del publico.
+Tratamiento visual: Separador austero, tipografico y respirado.
 
-## Slide 21 · NotebookLM
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de NotebookLM dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 21 · Version 2.0
+Capitulo: WHAT NEXT
+Objetivo: Lanzar la metodologia como producto institucional reusable.
+Tratamiento visual: Lista abierta que presenta la metodologia como ecosistema.
 
-## Slide 22 · ChatGPT
-Capítulo: HOW
-Objetivo: Explicar la misión metodológica de ChatGPT dentro del flujo de investigación.
-Tratamiento visual: Plantilla fija de dos columnas con jerarquía editorial consistente.
+## Slide 22 · What can be reproduced tomorrow morning?
+Capitulo: WHAT NEXT
+Objetivo: Convertir la inspiracion en accion concreta para manana.
+Tratamiento visual: Tabla accionable enfocada en reproduccion inmediata.
 
-## Slide 23 · RESULT
-Capítulo: RESULT
-Objetivo: Separar capítulos y resetear la atención del público.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
-
-## Slide 24 · Transformación
-Capítulo: RESULT
-Objetivo: Visualizar un flujo o una transformación secuencial.
-Tratamiento visual: Secuencia vertical de lectura inmediata con flechas mínimas.
-
-## Slide 25 · Toda buena investigación termina con una nueva pregunta.
-Capítulo: RESULT
-Objetivo: Condensar la tesis conceptual de la sección.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
-
-## Slide 26 · WHAT NEXT
-Capítulo: WHAT NEXT
-Objetivo: Separar capítulos y resetear la atención del público.
-Tratamiento visual: Tipografía grande, centro de gravedad claro y composición sobria.
-
-## Slide 27 · Versión 1.0
-Capítulo: WHAT NEXT
-Objetivo: Lanzar públicamente los componentes de la Versión 1.0.
-Tratamiento visual: Lista estructurada con módulos grandes y respiración amplia.
-
-## Slide 28 · Roadmap
-Capítulo: WHAT NEXT
-Objetivo: Demostrar continuidad estratégica y expansión futura.
-Tratamiento visual: Cuatro columnas limpias con énfasis en versión y nombre.
-
-## Slide 29 · La investigadora sigue en el centro.
-Capítulo: WHAT NEXT
-Objetivo: Cerrar con una visión humana y conectada del futuro de la investigación.
-Tratamiento visual: Composición radial alrededor de la investigadora.
-
-## Slide 30 · Continúa el laboratorio.
-Capítulo: WHAT NEXT
-Objetivo: Invitar a la audiencia a continuar el laboratorio fuera del escenario.
-Tratamiento visual: Llamado a la acción con placeholder funcional para QR.
-
-## Slide 31 · Backup · Stack completo
-Capítulo: BACKUP
-Objetivo: Respaldar preguntas operativas o metodológicas en Q&A.
-Tratamiento visual: Slides utilitarias, legibles y visualmente consistentes con la cubierta principal.
-
-## Slide 32 · Backup · Consultas exactas
-Capítulo: BACKUP
-Objetivo: Respaldar preguntas operativas o metodológicas en Q&A.
-Tratamiento visual: Slides utilitarias, legibles y visualmente consistentes con la cubierta principal.
-
-## Slide 33 · Backup · Checklist en vivo
-Capítulo: BACKUP
-Objetivo: Respaldar preguntas operativas o metodológicas en Q&A.
-Tratamiento visual: Slides utilitarias, legibles y visualmente consistentes con la cubierta principal.
+## Slide 23 · The modern researcher no longer searches for information.
+Capitulo: WHAT NEXT
+Objetivo: Cerrar con una definicion memorable de la ventaja del investigador moderno.
+Tratamiento visual: Cierre blanco sin iconos ni adornos, solo dos ideas fuertes.
 

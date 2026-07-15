@@ -1,44 +1,44 @@
 # Research Checklist
 
-## Planeacion
+## Scientific Question
 
-- Pregunta definida
-- Objetivo definido
-- Alcance definido
-- Keywords iniciales definidas
-- Hipotesis registradas
+- Pregunta definida.
+- Objetivo definido.
+- Alcance definido.
+- Supuestos iniciales registrados.
 
-## Descubrimiento
+## Scientific Language
 
-- Panorama conceptual levantado
-- Instituciones registradas
-- Reportes utiles registrados
-- Keywords refinadas
+- Conceptos centrales levantados.
+- Keywords y sinonimos refinados.
+- Variables y dimensiones identificadas.
+- Hipotesis iniciales registradas.
 
-## Literatura
+## Scientific Corpus
 
-- Corpus inicial reunido
-- Filtros documentados
-- Papers ancla identificados
-- Autores clave identificados
+- Corpus inicial reunido.
+- Filtros documentados.
+- Autores clave identificados.
+- Revistas e instituciones relevantes registradas.
 
-## Estructura del campo
+## Seed Paper y Knowledge Map
 
-- Grafo inicial creado
-- Evolucion temporal observada
-- Clusters anotados
+- Seed paper identificado.
+- Mapa inicial del campo creado.
+- Evolucion temporal observada.
+- Clusters o lineas de investigacion anotadas.
 
-## Evidencia
+## Scientific Evidence y Literature Synthesis
 
-- Pregunta de evidencia evaluada
-- Citas validadas en contexto
-- Contradicciones registradas
-- Metodos y limitaciones comparados
+- Pregunta de evidencia evaluada.
+- Estudios de soporte y contradiccion registrados.
+- Metodos y limitaciones comparados.
+- Sintesis preliminar de literatura elaborada.
 
-## Memoria y escritura
+## Scientific Memory y Communication
 
-- Corpus limpio cargado en NotebookLM
-- FAQ o study guide generado
-- Outline elaborado
-- Gap de investigacion redactado
-- Referencias verificadas
+- Corpus limpio cargado en NotebookLM.
+- Base de conocimiento generada.
+- Gap de investigacion redactado.
+- Producto inicial de comunicacion preparado.
+- Referencias verificadas.
